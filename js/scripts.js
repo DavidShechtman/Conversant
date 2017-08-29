@@ -1,3 +1,3 @@
-<script>
-$("#testHeader").css("background-color", "yellow");
-</script>
+$(document).ready(function(){
+    $("#testHeader").css("background-color", "yellow");
+});
